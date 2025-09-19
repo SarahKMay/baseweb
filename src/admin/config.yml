@@ -9,7 +9,7 @@ backend:
 site_url: https://sktestweb.netlify.app
 display_url: https://sktestweb.netlify.app
 logo_url: https://decapbridge.com/decapcms-with-bridge.svg
-publish_mode: editorial_workflow
+publish_mode: simple
 
 # Local editing support (optional; run: npx decap-server && npm start)
 local_backend: true
